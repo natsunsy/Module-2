@@ -14,3 +14,7 @@ This module requires `operators.py`, `module.py`, `scalar.py`, and `autodiff.py`
 ```
 python run_tests.py
 ```
+
+* Resultados
+
+<img src="https://github.com/natsunsy/Module-2/blob/master/images/Xor.png" width="600px">
